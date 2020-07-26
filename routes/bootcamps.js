@@ -9,7 +9,7 @@ const {
   updateBootcamp,
   patchBootcamp,
   deleteBootcamp,
-} = require('./controlles/bootcamp.js');
+} = require('./controllers/bootcamps.js');
 
 module.exports = router;
 
